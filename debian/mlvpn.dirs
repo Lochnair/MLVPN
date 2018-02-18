@@ -4,5 +4,3 @@ usr/share/man/man5
 usr/share/doc/mlvpn
 usr/share/mlvpn
 usr/sbin
-lib/systemd/system
-usr/lib/tmpfiles.d
