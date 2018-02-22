@@ -1,3 +1,9 @@
+mlvpn (2.3.2~bpo70+1) wheezy-backports; urgency=medium
+
+  *  Update to 2.3.2
+
+ -- Nils Andreas Svee <me@lochnair.net>  Thu, 22 Feb 2018 03:43:46 +0100
+ 
 mlvpn (2.3.0~bpo70+1) wheezy-backports; urgency=medium
 
   *  Update to 2.3.0
